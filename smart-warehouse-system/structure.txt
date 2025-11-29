@@ -1,0 +1,18 @@
+smart-warehouse-system/
+├── backend/
+│   ├── src/
+│   │   ├── config/
+│   │   ├── factories/
+│   │   ├── composite/
+│   │   ├── observer/
+│   │   ├── decorator/
+│   │   ├── facade/
+│   │   ├── models/
+│   │   ├── routes/
+│   │   └── server.js
+│   ├── package.json
+│   └── .env
+└── frontend/
+    ├── src/
+    ├── package.json
+    └── public/
